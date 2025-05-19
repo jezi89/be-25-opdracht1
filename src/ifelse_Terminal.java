@@ -1,5 +1,5 @@
-/*Opdracht 1: Even/Odd Checker
-Schrijf een methode dat als input een getal van de gebruiker accepteert en controleert of het even of oneven is. Print "Het getal is even" of "Het getal is oneven".*//*
+Opdracht 1: Even/Odd Checker
+Schrijf een methode dat als input een getal van de gebruiker accepteert en controleert of het even of oneven is. Print "Het getal is even" of "Het getal is oneven".
 
 
 import java.util.Scanner;
@@ -219,12 +219,10 @@ public class ifelse_Terminal {
 	}
 
 	// Helper method for safe check van integer of short input
-	*/
-/*
 	Benodigd in functies:
 	int number = getNumberInput(scanner, false); // for int input
 	short number = (short) getNumberInput(scanner, true); // for short input
-	*//*
+
 
 
 	private static int getNumberInput(Scanner scanner, boolean asShort) {
@@ -247,4 +245,3 @@ public class ifelse_Terminal {
 }
 
 
-*/
