@@ -1,6 +1,3 @@
-Opdracht 1: Even/Odd Checker
-Schrijf een methode dat als input een getal van de gebruiker accepteert en controleert of het even of oneven is. Print "Het getal is even" of "Het getal is oneven".
-
 
 import java.util.Scanner;
 //Met de Scanner class kan je de gebruiker een input laten geven.
